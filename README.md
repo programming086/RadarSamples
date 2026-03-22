@@ -9,6 +9,20 @@ Making a fresh app project designed to only demonstrate the issue and nothing mo
 
 ##Open Bugs
 
+### macOS 10.12 Bugs
+
+- **CollectionViewMoveBug** [NSCollectionView Move Sections Crash](https://www.cocoanetics.com/2016/09/bug-nscollectionview-move-sections-crash/), rdar://28337446
+
+### iOS 11 Bugs
+- **TextFieldColor** [textColor cannot be changed when set from Code](http://www.openradar.me/33104437), rdar://33104437
+- **ImageWithLinkAttributedStringCrashOnDragging** [Image with link attributed string crash on dragging](http://www.openradar.me/33588197), rdar://33588197
+- **TableViewContentInsetDifferent** [ContentInset is different on iOS 10 and iOS 11](http://www.openradar.me/33874488), rdar://33874488
+
+### Xcode 9 Bugs
+- **WrongWdithWithConstraints** [Auto Layout Constraints show wrong view size in Xcode 9](http://www.openradar.me/33752705), rdar://33752705
+- **InterfaceTest** [Quick Help no longer shows documentation from imported module](https://www.cocoanetics.com/2017/10/radar-xcode-quick-help-no-longer-shows-documentation-from-imported-module/), rdar://34789767
+
+
 ### iOS 9 Bugs
 
 - **WidgetTabCellTest** [Table View Cells lose clickability in Today Widget](https://www.cocoanetics.com/2015/10/table-view-cells-lose-clickability-in-today-widget/), rdar://23298579 
